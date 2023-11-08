@@ -1,0 +1,12 @@
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\bin\Debug\net6.0\PosGraduacao.Infra.SqlServer.deps.json
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\bin\Debug\net6.0\PosGraduacao.Infra.SqlServer.dll
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\bin\Debug\net6.0\PosGraduacao.Infra.SqlServer.pdb
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\PosGraduacao.Infra.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\PosGraduacao.Infra.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\PosGraduacao.Infra.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\PosGraduacao.Infra.SqlServer.AssemblyInfo.cs
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\PosGraduacao.Infra.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\PosGraduacao.Infra.SqlServer.dll
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\refint\PosGraduacao.Infra.SqlServer.dll
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\PosGraduacao.Infra.SqlServer.pdb
+C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Infra.SqlServer\obj\Debug\net6.0\ref\PosGraduacao.Infra.SqlServer.dll
