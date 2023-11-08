@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2B3B19
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{7FF995A6-8D4C-493A-9352-8DC76E4419CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{B4182DB7-1097-4BFA-B8EC-7FF1FE63D2E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{B4182DB7-1097-4BFA-B8EC-7FF1FE63D2E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosGraduacao.Domain", "PosGraduacao.Domain\PosGraduacao.Domain.csproj", "{B9FD396C-D65E-443B-B397-D673897E2776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosGraduacao.Domain", "PosGraduacao.Domain\PosGraduacao.Domain.csproj", "{B9FD396C-D65E-443B-B397-D673897E2776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosGraduacao.Infra.SqlServer", "PosGraduacao.Infra.SqlServer\PosGraduacao.Infra.SqlServer.csproj", "{941F684F-0A58-429B-BE89-E3C64AB37948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosGraduacao.Infra.SqlServer", "PosGraduacao.Infra.SqlServer\PosGraduacao.Infra.SqlServer.csproj", "{941F684F-0A58-429B-BE89-E3C64AB37948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

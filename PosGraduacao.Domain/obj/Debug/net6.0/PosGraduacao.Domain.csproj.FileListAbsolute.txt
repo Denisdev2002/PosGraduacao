@@ -10,3 +10,15 @@ C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\P
 C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\refint\PosGraduacao.Domain.dll
 C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.pdb
 C:\Users\Aula\source\repos\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\ref\PosGraduacao.Domain.dll
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\bin\Debug\net6.0\PosGraduacao.Domain.deps.json
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\bin\Debug\net6.0\PosGraduacao.Domain.dll
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\bin\Debug\net6.0\PosGraduacao.Domain.pdb
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.csproj.AssemblyReference.cache
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.AssemblyInfo.cs
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.dll
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\refint\PosGraduacao.Domain.dll
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\PosGraduacao.Domain.pdb
+C:\Users\Aula\Documents\PosGraduação\PosGraduacao.Domain\obj\Debug\net6.0\ref\PosGraduacao.Domain.dll
